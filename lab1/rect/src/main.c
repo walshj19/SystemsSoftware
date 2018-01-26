@@ -15,7 +15,7 @@ int main (int argc, char ** argv)
 	area = x * y;
 
 	// Print out the result
-	printf("%f/n",area);
+	printf("%f\n",area);
 
 	return 0;
 }
